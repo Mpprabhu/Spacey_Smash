@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 170eab4ddea4bf140a23b78348640a4c
+  - enabled: 1
+    path: Assets/Scenes/Single_Player.unity
+    guid: dde5f6e0c6986a44793b6edeabd6935e
+  - enabled: 0
+    path: Assets/Scenes/Co-Op_mode.unity
+    guid: eb50421aad2a9b74ba9ae43de9185a80
+  m_configObjects: {}
